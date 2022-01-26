@@ -1,0 +1,39 @@
+body{
+    background-color: rgb(168, 21, 236);
+    text-align: center;
+}
+.heading{
+    font-size: 23px;
+    width: 100%;
+    margin: 0px;
+    box-shadow:5px 5px 5px rgb(0, 0, 0);
+    font-family: cursive;
+}
+.note
+{
+    font-size: 15px;
+    color: black;
+    font-family: cursive;
+    background-color:hotpink;
+}
+.copy_right_footer{
+    position: fixed;
+    color: rgb(27, 25, 25);
+    bottom: 0;
+    width: 100%;
+    background-color: rgb(114, 71, 233);
+    line-height: 3;
+    text-decoration: turquoise;
+    text-align: center;
+}
+canvas{
+    border:5px solid white;
+    border-radius: 20px;
+    box-shadow:5px 5px 5px  violet;
+}
+#camera 
+{
+  border:2px dashed deeppink;
+  width: 350px;
+  height: 300px; 
+}
